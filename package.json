@@ -1,6 +1,6 @@
 {
     "name": "sanity-cms",
-    "homepage": "https://matlock-raft-event.github.io/",
+    "homepage": "https://matlock-raft-event.github.io/sanity-cms",
     "private": true,
     "version": "1.0.0",
     "main": "package.json",

@@ -15,7 +15,6 @@ const singletonTypes = new Set(["about", "cookiesInfo", "contactInstructions", "
 export default defineConfig({
     name: "default",
     title: "Matlock Raft Event",
-    basePath: "/sanity-cms",
 
     projectId: "6m6e8mul",
     dataset: "production",

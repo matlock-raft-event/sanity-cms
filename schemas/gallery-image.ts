@@ -1,4 +1,4 @@
-// schemas/pet.js
+// schemas/gallery-image.js
 export default {
     name: 'galleryImage',
     type: 'document',

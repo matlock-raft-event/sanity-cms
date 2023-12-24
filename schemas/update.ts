@@ -28,5 +28,10 @@ export default {
             type: 'image',
             title: 'Image'
         },
+        {
+            name: 'date',
+            type: 'date',
+            title: "Date"
+        }
     ]
 };
